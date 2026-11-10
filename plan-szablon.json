@@ -1,0 +1,19 @@
+{
+  "format": "silownia-plan",
+  "days": [
+    {
+      "name": "Dzień 1 (zmień nazwę)",
+      "weekdays": ["pn", "czw"],
+      "warmup": [
+        { "name": "Nazwa rozgrzewki", "detail": "5 min", "desc": "Krótki opis.", "anim": "run" }
+      ],
+      "exercises": [
+        { "name": "Nazwa ćwiczenia", "desc": "Opis techniki.", "sets": 4, "reps": "8-10", "rir": "1-2", "weight": 60, "rest": 120, "anim": "squat" },
+        { "name": "Drugie ćwiczenie", "desc": "", "sets": 3, "reps": "12", "weight": 20, "rest": 90, "anim": "" }
+      ],
+      "stretch": [
+        { "name": "Nazwa rozciągania", "detail": "30 s", "desc": "Krótki opis.", "anim": "bend" }
+      ]
+    }
+  ]
+}
